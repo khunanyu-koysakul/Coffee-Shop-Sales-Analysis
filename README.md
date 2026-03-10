@@ -55,15 +55,18 @@ coffee-shop-sales-analysis
 ├── data/
 
 │   └── coffee_shop_sales.csv
+
 │
 ├── notebooks/
 
 │   └── coffee_sales_analysis.ipynb
+
 │
 
 ├── images/
 
 │   └── (exported visualizations)
+
 │
 
 ├── README.md
