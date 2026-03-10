@@ -51,6 +51,7 @@ Sales drop significantly after 11 AM, leaving store capacity underutilized.
 
 ## Project Structure
 coffee-shop-sales-analysis
+
 │
 ├── data/
 
